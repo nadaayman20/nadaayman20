@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nada Ayman</h1>
 <h3 align="center">👩‍🎓 I’m a Software Engineer, I’m Graduated from Computer and Artificial Intelligence Helwan University. CS department</h3>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c02ae606af504f7f8a1435c1bbeacd0020e44d1b1ec863d1bc89c4430934b8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4e616461416c6161456c6465656e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/6c02ae606af504f7f8a1435c1bbeacd0020e44d1b1ec863d1bc89c4430934b8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4e616461416c6161456c6465656e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="nadaAlaaEldeen" data-canonical-src="https://komarev.com/ghpvc/?username=NadaAlaaEldeen&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 50%;"></a> </p>
 
 * 🔭 I’m currently In Trainee In ITI
 * 👀 I’m interested in programming, Frontend Web Development 
