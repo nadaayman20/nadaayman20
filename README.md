@@ -7,11 +7,11 @@
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 <br>
-* 🔭 I’m currently In Trainee In ITI
-* 👀 I’m interested in programming, Frontend Web Development 
-* 🌱 I’m currently learning (C# , ASP.NET) In Web Development By ITI Instructors
-* 💬 Ask me about HTML, CSS , JS , Bootstrap , Angular , SQL , ASP.NET
-* 📫 How to reach me naymanallam@gmail.com
+*🔭 I’m currently In Trainee In ITI
+*👀 I’m interested in programming, Frontend Web Development 
+*🌱 I’m currently learning (C# , ASP.NET) In Web Development By ITI Instructors
+*💬 Ask me about HTML, CSS , JS , Bootstrap , Angular , SQL , ASP.NET
+*📫 How to reach me naymanallam@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <br>
