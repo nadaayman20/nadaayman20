@@ -6,12 +6,12 @@
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" style="width: 320px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
-<br>
-*🔭 I’m currently In Trainee In ITI
-*👀 I’m interested in programming, Frontend Web Development 
-*🌱 I’m currently learning (C# , ASP.NET) In Web Development By ITI Instructors
-*💬 Ask me about HTML, CSS , JS , Bootstrap , Angular , SQL , ASP.NET
-*📫 How to reach me naymanallam@gmail.com
+
+* 🔭 I’m currently In Trainee In ITI
+* 👀 I’m interested in programming, Frontend Web Development 
+* 🌱 I’m currently learning (C# , ASP.NET) In Web Development By ITI Instructors
+* 💬 Ask me about HTML, CSS , JS , Bootstrap , Angular , SQL , ASP.NET
+* 📫 How to reach me naymanallam@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <br>
