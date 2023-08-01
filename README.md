@@ -5,11 +5,10 @@
 
 <h3 align="left">👨🏻‍💻 About Me: </h3>
 
-* 🔭 I’m currently In Trainee In ITI
-* 👀 I’m interested in programming, Frontend Web Development 
-* 🌱 I’m currently learning (Angular , ASP.NET MVC Core) 
+* 🌱 I’m currently learning backend .Net 
 * 💬 Ask me about HTML, CSS , JS , Bootstrap , Angular , SQL , ASP.NET
 * 📫 How to reach me naymanallam@gmail.com
+* 👨‍💻 All of my projects are available at https://www.nadood.com/
 
 <h3 align="left">Connect with me:</h3>
 <br>
